@@ -7,7 +7,7 @@ int main()
     k=1;
     for(int i=1;i<=(2*n)-1;i++)
     {
-        // ekta line
+        
         for(int j=1;j<=s;j++)
         {
             printf(" ");
@@ -16,7 +16,6 @@ int main()
         {
             printf("%d",j);
         }
-        // line seshe
         if(i<=n-1)
         {
             s--;
