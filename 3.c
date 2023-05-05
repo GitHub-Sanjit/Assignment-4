@@ -8,7 +8,7 @@ int count_before_zero(int ar[],int n)
         if(ar[i]==0){
             return count;
         }else{
-            count++;
+             count++;
         }
     }
     return count;
